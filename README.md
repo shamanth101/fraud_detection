@@ -5,7 +5,7 @@ DLithe Internship Certification Program
 
 Project Topic :Credit card fraud detection Reference : DLithe Website : www.dlithe.com Project done under the guidance of : DLithe
 
-Done by: Shamanth.s 4NM17IS088
+Done by: SHAMANTH.S 4NM17IS088
 
 Credit card fraud detection analysis using Machine learning models
 
@@ -13,13 +13,13 @@ The main objective of the customer churn analysis is to predict that if the cust
 
 The steps involved in the project are:
 
-exploring the dataset also visualizing as well as cleaning the data set .
+1.exploring the dataset also visualizing as well as cleaning the data set .
 
-Data preprocessing
+2.Data preprocessing
 
-building machine learning models
+3.building machine learning models
 
-evaluating the models
+4.evaluating the models
 
 5.tuning the parameters for better accuracy
 
