@@ -5,7 +5,7 @@ DLithe Internship Certification Program
 
 Project Topic :Credit card fraud detection Reference : DLithe Website : www.dlithe.com Project done under the guidance of : DLithe
 
-Done by: Shamanth 4NM17IS088
+Done by: Shamanth.s 4NM17IS088
 
 Credit card fraud detection analysis using Machine learning models
 
